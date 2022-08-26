@@ -1,0 +1,33 @@
+<!DOCTYPE.HTML>
+<html lang="en"
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>structure of simple website</title>
+</head>
+<body>
+    <h1> Structure Of A Simple Website.</h1>
+    <img src="images/photo 2.jpg" alt="image of Chris Green">
+    <h2><i>Bio of Chris Green.</i></h2>
+ <!-name, bio, 3 episodes faced challenges, skills, recent projects->
+    <P>Chris Green is a Deputy Manager for a German supermarket retailer here in the uk.</P>
+      <p>Born, raised and schooled in the Lancaster area,
+        he spent 15 years self employed as a draper before joining
+        Aldi where he has been now for 10 years.</p>
+      <p>Having only ever having one job, when his business came to an end he worried how he 
+        would ever fit into another role but just a few weeks later he was busily working in a 
+        new environment, full of enthusiasm. It was not long before he was promoted and is now 
+        Deputy Manager with 30 staff to manage.</p>
+      <p>Over the years Chris has developed -</p>
+        <ul>
+            <li> crucial industry expertise</li> 
+            <li>accurate cash handling</li> 
+            <li>solid customer service skills</li>
+            <li>legal compliance</li>
+    <p>Recently Chris has been part of the 'Project Fresh' team, who were integeral
+        in revamping all the stores within the region.  He also oversaw the implementation
+        of the self service checkout systems within his own store.
+        Chris recently began taking a course in computer coding and hopes to gain the new
+        skills required to open new avenues and perhaps start a new chapter in his life.</p>
+</body>
+<html>
