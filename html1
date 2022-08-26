@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>this is a title</title>
+</head>
+<body>
+  <div>100</div>
+  <div>200</div>
+  <div>300</div>
+  <img src="images/blue flower.jpeg" alt="picture of blue flower">
+  <h1>this is line 1</h1> 
+  <a href="https://www.google.com"> link to website</a>
+  <h2>this is line 2</h2> 
+  <a href="https://www.google.com" target="_blank"> link to website in new tab</a>
+  <h3>this is line 3</h3>
+  <a href="https://www.google.com" target="_blank" rel="noopener noreferer"> more secure link to website in new tab</a>
+  <h4>this is line 4</h4>
+  <a href= tel: +447654567654> call for more information</a>
+  <ol>
+    <li>list 1</li>
+    <li>list 2</li>
+    <li>list 3</li>
+    <li>
+      <ul>
+       <li>more in this list</li>
+       <li>more in this list</li>
+      </ul>
+     </li>
+     <li>
+      <ul>
+       <li>more in this list</li>
+       <li>more in this list</li>
+      </ul>
+    </li>
+  </ol> 
+  <label>Choose your favourite Captain</label>
+   <select name=Captain>
+    <option value="Captain Kirk">Captain Kirk</option>
+    <option value="Captain Cook">Captain Cook</option>
+    <option value="Captain Oats">Captain Oats</option>
+    <option value="Captain Pugwash">Captain Pugwash</option> 
+   </select>
+  <ul>
+    <li>list 1</li>
+    <li>list 2</li>
+    <li>list 3</li>
+  </ul>
+  <form action="register.php" method="post">
+    <label>Register Email for updates</label>
+    <input type="Email" name="Email" class="Email"/>
+    <input type="submit" value="submit"/>
+    </form>
+</body>
+</html>
